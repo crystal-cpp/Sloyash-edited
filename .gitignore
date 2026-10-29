@@ -9,3 +9,5 @@ yarn-debug.log*
 yarn-error.log*
 dist/
 build/
+.env 
+backend_database_SY/.env 
