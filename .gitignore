@@ -11,3 +11,4 @@ dist/
 build/
 .env 
 backend_database_SY/.env 
+backend_database_SY/.env 
